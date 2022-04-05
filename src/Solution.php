@@ -165,13 +165,3 @@ class Solution
 
 
 }
-
-
-//$phone = '+46-73-212345';
-//
-//$solu = new Solution();
-//$solu->loadPriceDataFromFile('./data.txt');
-//$data = $solu->cheapest($phone);
-//$solu->output($phone, $data);
-
-
